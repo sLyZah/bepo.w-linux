@@ -24,4 +24,10 @@ The additional layout starts at line 535 (https://github.com/sLyZah/bepo.w-linux
 
 Relog :)
 
+### fr_bepo_intl
+
+This is a file with this layout only.
+
+----
+
 Thanks a lot to Flamme for this layout.
