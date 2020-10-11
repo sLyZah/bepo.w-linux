@@ -8,12 +8,14 @@ You’ll have to modify 1 file.
 ### evdex.xml
 
 Add this to `/usr/share/X11/xkb/rules/evdev.xml`
->   <variant>
->     <configItem>
->       <name>bepo_w</name>
->       <description>French (Bepo, intl, Flamme Sly)</description>
->     </configItem>
->   </variant>
+```
+<variant>
+  <configItem>
+    <name>bepo_w</name>
+    <description>French (Bepo, intl, Flamme Sly)</description>
+  </configItem>
+</variant>
+```
 
 ### fr_bepo_intl
 
