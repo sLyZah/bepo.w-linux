@@ -3,7 +3,7 @@ A variant of the bépo layout, adapted for French, English and coding by Flamme.
 
 ## How to install?
 
-You’ll have to modify 1 file.
+You’ll have to modify 2 files.
 
 ### evdex.xml
 
@@ -17,9 +17,9 @@ Add this to `/usr/share/X11/xkb/rules/evdev.xml`
 </variant>
 ```
 
-### fr_bepo_intl
+### fr
 
-Add fr_bepo_intl to `/usr/share/X11/xkb/symbols/`
+Replace `/usr/share/X11/xkb/symbols/fr` with the `fr` file.
 
 Relog :)
 
