@@ -20,7 +20,7 @@ Add this to `/usr/share/X11/xkb/rules/evdev.xml`
 ### fr
 
 Replace `/usr/share/X11/xkb/symbols/fr` with the `fr` file.
-The additionnal layout starts at line 535 (https://github.com/sLyZah/bepo.w-linux/blob/31112aab31bdb45b33ccd9d8e567c0b9a1520fbf/fr#L535)
+The additional layout starts at line 535 (https://github.com/sLyZah/bepo.w-linux/blob/31112aab31bdb45b33ccd9d8e567c0b9a1520fbf/fr#L535)
 
 Relog :)
 
