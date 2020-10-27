@@ -3,7 +3,9 @@ A variant of the bépo layout, adapted for French, English and coding by Flamme.
 
 ## How to install?
 
-You’ll have to modify 2 files.
+You’ll have to modify 2 files or download bepow.tar
+chmod +x bepow.sh
+run bepow.sh
 
 ### evdex.xml
 
